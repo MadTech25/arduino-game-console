@@ -1,39 +1,44 @@
-# 👋 Hello, I'm Quantum Richardson (aka MadTech25)
+# Custom Arduino Nano Board
 
-🔧 Electronics Technician | ⚙️ Embedded Systems Builder | 📡 IoT Developer  
-Passionate about building real-world tech with Arduino, Raspberry Pi, and AI at the edge.
+This project showcases a custom-built Arduino Nano-compatible board, designed and assembled from individual components for electronics prototyping and embedded development.
 
----
+## 🛠️ Hardware Features
 
-## 🔨 What I Build
-- Smart surveillance and detection systems using TFLite + GPIO
-- DIY security hardware for e-bikes with GPS, RFID/NFC, and alarms
-- Game consoles, solar-powered systems, and self-hosted devices
-- Self-taught tools and automations powered by Python & Linux
+- Full pin headers for easy breadboard and jumper wire use
+- Tactile reset button mounted to PCB
+- 2.1mm barrel jack for external 9–12V power supply
+- Pre-programmed ATmega328P chip (or ready to program)
+- Onboard crystal oscillator
+- Soldered terminal pins for all digital, analog, power, and serial lines
 
----
+## 📷 Photos
 
-## 🚀 Featured Projects
+_Add photos of the board here once available_
 
-### 🔹 [AI Camera Alert System](https://github.com/MadTech25/ai-camera-alert)
-> Real-time object detection system with LED alert and Discord notifications. Built with Raspberry Pi, TFLite, GPIO, and Python.
+## 🚧 Programming Status
 
-### 🔹 [E-Bike Security System](https://github.com/MadTech25/e-bike-security-system)
-> A full-featured anti-theft system with RFID/NFC lock, GPS tracking, motion alarm, and hidden Pi cameras.
+- ATmega328P installed, not yet fully programmed
+- Future plans:
+  - Upload bootloader using Arduino as ISP
+  - Load basic sketches (blinking LED, serial monitor tests)
 
----
+## 📦 Repository Structure
 
-## 🧰 Skills & Tools
-`Python` `C++` `Arduino` `Raspberry Pi`  
-`GPIO` `I2C/SPI` `TFLite` `Systemd`  
-`Linux` `SSH` `Git` `Serial Comm` `RFID` `GPS`  
+```
+custom-arduino-nano/
+├── README.md
+└── photos/
+    └── (optional image uploads)
+```
 
----
+## 🔧 Skills Demonstrated
 
-## 📫 How to Reach Me
-- 📧 Email: quantum.v.rl@gmail.com
-- 🌐 GitHub: [github.com/MadTech25](https://github.com/MadTech25)
+- Through-hole soldering
+- Component placement and pin layout understanding
+- Voltage regulation planning (barrel jack → onboard 5V rail)
+- Arduino bootloader knowledge and ISP flashing setup
 
----
+## 🧠 Author
 
-_“I don’t just write code — I wire it, test it, deploy it, and protect it.”_
+Quantum Richardson  
+[GitHub Profile](https://github.com/MadTech25)
