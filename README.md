@@ -32,7 +32,7 @@ arduino-game-console/
 
 ## 📷 Demo
 
-![Game Console Photo](assets/console.jpg)
+![Game Console Photo](20250522_160306.jpg)
 
 
 ## 🔧 Libraries Used
