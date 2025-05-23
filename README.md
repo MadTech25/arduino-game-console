@@ -34,6 +34,12 @@ arduino-game-console/
 
 ![Game Console Photo](20250522_160306.jpg)
 
+## 📸 Photo Gallery
+
+| Top View | Side View | Powered On |
+|----------|-----------|------------|
+| ![](20250522_160306.jpg) | ![](20250522_160320.jpg) | ![](20250522_160346.jpg) |
+
 
 ## 🔧 Libraries Used
 
