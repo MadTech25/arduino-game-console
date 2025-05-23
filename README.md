@@ -32,7 +32,8 @@ arduino-game-console/
 
 ## 📷 Demo
 
-_Add photos or a short video of the device in action_
+![Game Console Photo](assets/console.jpg)
+
 
 ## 🔧 Libraries Used
 
